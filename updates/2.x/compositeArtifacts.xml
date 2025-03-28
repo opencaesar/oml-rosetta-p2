@@ -2,10 +2,10 @@
 <?compositeArtifactRepository version='1.0.0'?>
 <repository name='&quot;Rosetta Repository&quot; 2.x' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1731305766772'/>
+    <property name='p2.timestamp' value='1743195588635'/>
     <property name='p2.atomic.composite.loading' value='false'/>
   </properties>
-  <children size='12'>
+  <children size='13'>
     <child location='2.0.x'/>
     <child location='2.1.x'/>
     <child location='2.2.x'/>
@@ -18,5 +18,6 @@
     <child location='2.9.x'/>
     <child location='2.10.x'/>
     <child location='2.11.x'/>
+    <child location='2.12.x'/>
   </children>
 </repository>
